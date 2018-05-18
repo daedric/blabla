@@ -1,0 +1,9 @@
+[submodule "third_party/commonpp"]
+	path = third_party/commonpp
+	url = git@github.com:daedric/commonpp.git
+[submodule "third_party/hat-trie"]
+	path = third_party/hat-trie
+	url = git@github.com:Tessil/hat-trie.git
+[submodule "third_party/murmur3"]
+	path = third_party/murmur3
+	url = git@github.com:PeterScott/murmur3.git
